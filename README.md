@@ -1,4 +1,4 @@
-# CV — Pedro Coutinho
+# CV - Pedro Coutinho
 
 Built with [Typst](https://typst.app).
 
