@@ -89,7 +89,7 @@
   column-gutter: 1.5em,
   [
     #section("Awards")
-    #entry[🥉 BugsByte Hackathon][2025]
+    #entry[🥉 BugsByte Hackathon][2026]
     #bullet[3rd place in the Nutrium challenge track; built Healthium, a full-stack AI nutrition platform in under 48 hours as part of a team]
   ],
   [
